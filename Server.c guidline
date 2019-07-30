@@ -1,0 +1,7 @@
+/* Our shared "common" objects */
+
+struct sharedObjectsStruct shared;
+
+```
+public static void main
+```
